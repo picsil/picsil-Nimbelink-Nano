@@ -1,3 +1,5 @@
+# THIS LIBRARY IS A WORK IN PROGRESS
+
 # picsil-Nimbelink-Nano
 
 Arduino library for Nimbelink Skywire Nano cellular modules
